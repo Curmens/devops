@@ -68,21 +68,3 @@ To create a deploy user for the VM without password authentication, follow the s
     ```
 
 After completing these steps, the deploy user will be created on the VM, and password authentication will be disabled. The deploy user can now authenticate using the SSH key pair instead.
-
-### Usage
-
-Provide instructions or details on how to use the project or any other relevant information.
-
-### Contributing
-
-Provide guidelines for contributing to the project, such as code style, pull request process, and any specific requirements for contributors.
-
-### License
-
-Specify the license under which the project is distributed (e.g., MIT License, Apache License 2.0).
-
-### Contact
-
-Provide contact information or ways to reach out to the project maintainers or contributors for support or inquiries.
-
-Feel free to customize this script and the sections of the README file based on the specific needs of your project.
